@@ -1,16 +1,40 @@
-### Hi there 👋
+```php
+<?php
 
-<!--
-**michaelbarley/michaelbarley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+namespace MichaelBarley;
 
-Here are some ideas to get you started:
+class About extends Me
+{
+    public function getCurrentWorkplace(): array
+    {
+        return [
+            'workplace' => [
+                'company' => 'The Verve Group',
+                'position' => 'Fullstack Software Engineer'         
+            ]
+        ];
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    public function getDailyKnowledge(): array
+    {
+        return [
+            Php::class,
+            Javascript::class,
+            Laravel::class,
+            Vuejs::class,
+            TailwindCss::class,
+            Aws::class,
+        ];
+    }
+
+    public function getHobbiesAndInterests(): string
+    {
+        return [
+            Coding::class,
+            Cooking::class,
+            Hiking::class,
+            Movies::class,
+        ];
+    }
+}
+```
