@@ -1,7 +1,3 @@
-<p align="center">
-  <h1 align="center">Hi there, I'm Michael 👋</h1>
-</p>
-
 ## 💼 Experience 
 
 <table align="center">
