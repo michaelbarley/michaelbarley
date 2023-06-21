@@ -2,25 +2,6 @@
   <h1 align="center">Hi there, I'm Michael 👋</h1>
 </p>
 
----
-
-## 🎓 Education 
-
-<table align="center">
-  <tr>
-    <td><b>Degree</b></td>
-    <td><b>University</b></td>
-    <td><b>Year</b></td>
-  </tr>
-  <tr>
-    <td>BSc in Computer Science 🎓</td>
-    <td>Teesside University 🏛️</td>
-    <td>2015 - 2018</td>
-  </tr>
-</table>
-
----
-
 ## 💼 Experience 
 
 <table align="center">
@@ -44,8 +25,6 @@
   </tr>
 </table>
 
----
-
 ## 🛠️ Skills 
 
 <p align="center">
@@ -61,7 +40,20 @@
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg"></code>
 </p>
 
----
+## 🎓 Education 
+
+<table align="center">
+  <tr>
+    <td><b>Degree</b></td>
+    <td><b>University</b></td>
+    <td><b>Year</b></td>
+  </tr>
+  <tr>
+    <td>BSc in Computer Science 🎓</td>
+    <td>Teesside University 🏛️</td>
+    <td>2015 - 2018</td>
+  </tr>
+</table>
 
 ## 🍳 Hobbies 
 
