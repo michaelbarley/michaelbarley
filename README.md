@@ -1,6 +1,4 @@
 # Hi, I'm Michael 👋 
-Award winning Fullstack software engineer with 4+ years experience in the industry. Competent knowledge of HTML, CSS, Javascript (Vue.js), PHP (Laravel), MySQL, REST API creation/integration as well as Amazon Web Services (AWS) deployment/maintenance . Educated to degree level with a 1st class BSc Computing degree from Teesside University
-
 ## Experience 
 ```
 Fullstack Software Engineer
@@ -13,5 +11,52 @@ Mabo (Marketing)
 May 2019 – Sep 2022 (3 yrs 5 mos)
 ```
 
-## Skills 
-Laravel, Vue.js, AWS, REST APIs, Docker, JavaScript, CSS, HTML, D3.JS, Python, Git, Docker
+## 🛠️ Skills 
+
+<table>
+  <tr>
+      <td align="center">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+         <br>Laravel
+      </td>
+      <td align="center">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
+         <br>Vue.js
+      </td>
+      <td align="center">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+         <br>AWS
+      </td>
+      <td align="center">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+         <br>Docker
+      </td>
+      <td align="center">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+         <br>JavaScript
+      </td>
+   </tr>
+   <tr>
+      <td align="center">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+         <br>CSS3
+      </td>
+      <td align="center">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+         <br>HTML5
+      </td>
+      <td align="center">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+         <br>Python
+      </td>
+      <td align="center">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+         <br>Git
+      </td>
+      <td align="center">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" width="40" height="40"/>
+         <br>D3.js
+      </td>
+   </tr>
+</table>
+
