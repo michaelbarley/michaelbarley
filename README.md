@@ -6,6 +6,11 @@
 | Fullstack Software Engineer | The Verve Group UK | FinTech | Oct 2022 – Present (9 mos) |
 | Fullstack Software Engineer | Mabo | Marketing | May 2019 – Sep 2022 (3 yrs 5 mos) |
 
+## 🎓 Education 
+
+| Degree                    | University            | Year      |
+|---------------------------|-----------------------|-----------|
+| BSc in Computer Science 🎓 | Teesside University 🏛️ | 2015 - 2018 |
 
 
 ## 🛠️ Skills 
@@ -56,4 +61,13 @@
       </td>
    </tr>
 </table>
+
+## 🍳 Hobbies 
+
+One of my favorite pastimes is cooking 🥘. I love trying out new recipes and occasionally creating my own. You can take a look at some of my culinary adventures on my Instagram.
+
+<img width="466" alt="Screenshot 2023-06-21 at 17 16 03" src="https://github.com/michaelbarley/michaelbarley/assets/50404794/26fee7ed-6f51-4b4d-b87f-9942660462ff">
+
+
+
 
