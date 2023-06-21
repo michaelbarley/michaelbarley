@@ -1,15 +1,12 @@
 # Hi, I'm Michael 👋 
-## Experience 
-```
-Fullstack Software Engineer
-The Verve Group UK (FinTech)
-Oct 2022 – Present (9 mos)
-```
-```
-Fullstack Software Engineer
-Mabo (Marketing)
-May 2019 – Sep 2022 (3 yrs 5 mos)
-```
+## 💼 Experience 
+
+| Role                      | Company               | Industry | Duration              |
+|---------------------------|-----------------------|----------|-----------------------|
+| Fullstack Software Engineer | The Verve Group UK | FinTech | Oct 2022 – Present (9 mos) |
+| Fullstack Software Engineer | Mabo | Marketing | May 2019 – Sep 2022 (3 yrs 5 mos) |
+
+
 
 ## 🛠️ Skills 
 
