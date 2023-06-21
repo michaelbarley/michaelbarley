@@ -49,7 +49,7 @@
     <td><b>Year</b></td>
   </tr>
   <tr>
-    <td>BSc in Computer Science 🎓</td>
+    <td>(1st class) BSc in Computer Science 🎓</td>
     <td>Teesside University 🏛️</td>
     <td>2015 - 2018</td>
   </tr>
