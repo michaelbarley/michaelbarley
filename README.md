@@ -57,8 +57,4 @@
   <img width="20%" align="right" alt="Github" src="https://github.com/michaelbarley/michaelbarley/assets/50404794/26fee7ed-6f51-4b4d-b87f-9942660462ff"/>
 </p>
 
-<p align="left">
-  <img src="https://github.com/michaelbarley/michaelbarley/assets/cooking-gif.gif" alt="Cooking GIF" width="250">
-</p>
-
 One of my favorite pastimes is cooking 🥘. I love trying out new recipes and occasionally creating my own. You can take a look at some of my culinary adventures on my Instagram.
