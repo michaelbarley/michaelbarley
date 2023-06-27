@@ -7,11 +7,17 @@
     <td><b>Industry</b></td>
     <td><b>Duration</b></td>
   </tr>
+    <tr>
+    <td>Fullstack Software Engineer</td>
+    <td>Salesfire</td>
+    <td>Marketing</td>
+    <td>Jul 2023 – Present</td>
+  </tr>
   <tr>
     <td>Fullstack Software Engineer</td>
     <td>The Verve Group UK</td>
     <td>FinTech</td>
-    <td>Oct 2022 – Present (9 mos)</td>
+    <td>Oct 2022 – July 2023 (10 mos)</td>
   </tr>
   <tr>
     <td>Fullstack Software Engineer</td>
