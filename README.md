@@ -6,4 +6,4 @@ Currently at **Salesfire**, where I engineer a ClickHouse data warehouse at scal
 
 `Python` `SQL` `TypeScript` `AWS` `Terraform` `Docker` `Kubernetes` `ClickHouse` `Snowplow` `CI/CD`
 
-[LinkedIn](https://linkedin.com/in/michaelrbarley) · michaelrbarley@proton.me
+[LinkedIn](https://linkedin.com/in/michaelrbarley) · michael.barley@icloud.com
